@@ -1,0 +1,16 @@
+{
+	"provideLibs": [	
+		    "libdummy_ext_expat-x86_64-v2.so",
+		    "libdummy_ext_expat.so",
+		    "libdummy_headers_ext_expat-x86_64-v2.so",
+		    "libdummy_headers_ext_expat.so",
+		    "libexpat-x86_64-v2.so",
+		    "libexpat.so"
+	],
+	"requireLibs": [	
+		    "libc.so",
+		    "libdl.so",
+		    "libm.so"
+	],
+	"visible": true
+}
